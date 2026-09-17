@@ -24,7 +24,11 @@ Building tools and automations for cybersecurity, mostly in Python.
 
 ### `$ ls projects/`
 
-> Repositories are on their way — this section will list pinned projects once they're uploaded.
+<p align="center">
+  <a href="https://github.com/iandrade1987/playbooks_cybersecurity">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=iandrade1987&repo=playbooks_cybersecurity&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" />
+  </a>
+</p>
 
 ### `$ cat contact.txt`
 
