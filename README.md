@@ -19,15 +19,15 @@ Building tools and automations for cybersecurity, mostly in Python.
 ### `$ cat stats.log`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api?username=iandrade1987&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" />
-  <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/top-langs/?username=iandrade1987&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api?username=iandrade1987&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&cb=2" />
+  <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/top-langs/?username=iandrade1987&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&cb=2" />
 </p>
 
 ### `$ ls projects/`
 
 <p align="center">
   <a href="https://github.com/iandrade1987/playbooks_cybersecurity">
-    <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/pin/?username=iandrade1987&repo=playbooks_cybersecurity&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" />
+    <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/pin/?username=iandrade1987&repo=playbooks_cybersecurity&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&cb=2" />
   </a>
 </p>
 
