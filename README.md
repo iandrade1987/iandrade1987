@@ -29,6 +29,9 @@ Building tools and automations for cybersecurity, mostly in Python.
   <a href="https://github.com/iandrade1987/playbooks_cybersecurity">
     <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/pin/?username=iandrade1987&repo=playbooks_cybersecurity&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&cb=2" />
   </a>
+  <a href="https://github.com/iandrade1987/phishing_analyser">
+    <img height="165" src="https://github-readme-stats-iandrade1987.vercel.app/api/pin/?username=iandrade1987&repo=phishing_analyser&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&cb=2" />
+  </a>
 </p>
 
 ### `$ cat contact.txt`
